@@ -4,10 +4,10 @@
 ![This is an image](/src/assets/sc1.png)
 
 # Second screen:
-![This is an image](/src/assets/sc1.png)
+![This is an image](/src/assets/sc2.png)
 
 # Third screen:
-![This is an image](/src/assets/sc1.png)
+![This is an image](/src/assets/s3.png)
 
 
 # Getting Started with Create React App
