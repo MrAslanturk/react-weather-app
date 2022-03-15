@@ -1,7 +1,14 @@
 # Screen Shots from app
 
-First screen:
-![This is an image](./assets/sc1.png)
+# First screen:
+![This is an image](/src/assets/sc1.png)
+
+# Second screen:
+![This is an image](/src/assets/sc1.png)
+
+# Third screen:
+![This is an image](/src/assets/sc1.png)
+
 
 # Getting Started with Create React App
 
